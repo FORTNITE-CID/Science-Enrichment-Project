@@ -11,7 +11,8 @@ nav a {
         padding: 14px 16px;
         text-decoration: none;
         transition: background-color 0.3s;
+        display: none;
 }
-nav: hover {
-        margin-top: 50px;
+nav:hover a{
+        display:block;
 }
