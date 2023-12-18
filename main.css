@@ -16,3 +16,6 @@ nav a {
 nav:hover a{
         transform: translateY(-10px);
 }
+nav:hover {
+        transform: translateY(-10px);
+}
