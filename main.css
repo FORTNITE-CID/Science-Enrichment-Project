@@ -3,19 +3,13 @@ nav {
         overflow: hidden;
         text-align: center;
         margin-top: 0px;
-        max-height; 0;
+        /*max-height; 0;*/
 }
 nav a {
-        display: inline-block;
         color: white;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
         transition: background-color 0.3s;
 }
-nav:hover a{
-        transform: translateY(-10px);
-}
-nav:hover {
-        transform: translateY(-10px);
-}
+
