@@ -3,6 +3,7 @@ nav {
         overflow: hidden;
         text-align: center;
         margin-top: 0px;
+        max-height; 0;
 }
 nav a {
         display: inline-block;
@@ -15,4 +16,5 @@ nav a {
 }
 nav:hover a{
         display:block;
+        transform: translateY(-10px);
 }
