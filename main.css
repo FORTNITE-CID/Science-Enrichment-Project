@@ -12,9 +12,7 @@ nav a {
         padding: 14px 16px;
         text-decoration: none;
         transition: background-color 0.3s;
-        display: none;
 }
 nav:hover a{
-        display:block;
         transform: translateY(-10px);
 }
